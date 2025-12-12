@@ -1,3 +1,11 @@
+Author
+------
+
+Emmanuel Wambura  
+M.S. Data Science | Data Analytics & Data Engineering
+
+
+
 # Zagimore ETL Pipeline & Data Warehouse
 
 ## Project Overview
